@@ -1,0 +1,30 @@
+
+.shop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.shop-img{
+    height: 100vh;
+}
+
+.product-container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.product-img{
+    width: 200px;
+}
+
+.shelf{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
