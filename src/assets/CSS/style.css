@@ -7,6 +7,8 @@
 
 .shop-img{
     height: 100vh;
+    width: 100%;
+    
 }
 
 .product-container{
@@ -24,7 +26,13 @@
 .shelf{
     display: flex;
     gap: 20px;
-    margin-top: 20px;
+    margin: 20px;
     flex-wrap: wrap;
+}
+
+.visitor{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
 }
 

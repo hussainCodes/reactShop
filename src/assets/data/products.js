@@ -12,9 +12,8 @@ const products = [
     {
         name: "Instant noodles",
         image: "https://produits.bienmanger.com/46451-0w600h600_Cup_Korean_Instant_Noodles_Shin_Ramyun_Spicy_Beef_Broth_Flavour.jpg",
-        price: .950
-    },
-
+        price: 0.950
+    }
 ]
 
 export default products;
